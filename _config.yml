@@ -1,11 +1,11 @@
 # Site settings
-title: Travis Byr
-email: your-email@domain.com
+title: Travis Byrman
+email: travis-byrman@live.nmit.ac.nz
 url: https://jeromelachaud.com/freelancer-theme
 description: "Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description."
 keywords: "your keywords, separated by commas"
-skills: "Web Developer - Graphic Artist - User Experience Designer"
-meta_author: LastName FirstName
+skills: "Inspired Web Developer learning in HTML/CSS/JS "
+meta_author: Byrman Travis
 
 # Google webmaster tools
 google_verify:
@@ -32,9 +32,9 @@ color:
 
 # Footer settings
 footer:
-  copyright: Dr. Henry Jekyll
-  location: Location
-  social: Around the Web
+  copyright: Travis Byrman
+  location: New Zealand
+  social: Welcome to Jekyll!
   credits: Credits
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
@@ -52,11 +52,11 @@ social:
 
 # Postal address (add as many lines as necessary)
 address:
-  - line: 3481 Melrose Place
-  - line: Beverly Hills, CA 90210
+  - line: 123 Happy Road
+  - line: Nelson, New Zealand 7010
 
 # Credits content
-credits: 'Freelancer is a free to use, open source Bootstrap theme created by <a href="http://startbootstrap.com">Start Bootstrap</a>.'
+credits: "Freelancer is a free to use, open source Bootstrap theme that should be used if you have a lot of patience</a>."
 
 # Build settings
 markdown: kramdown
